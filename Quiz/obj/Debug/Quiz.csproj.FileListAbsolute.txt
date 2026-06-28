@@ -1,0 +1,12 @@
+\\Mac\Home\Desktop\Quiz\obj\Debug\Quiz.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Quiz\obj\Debug\Quiz.MainForm.resources
+\\Mac\Home\Desktop\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+\\Mac\Home\Desktop\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Quiz\obj\Debug\Quiz.QuizForm.resources
+\\Mac\Home\Desktop\Quiz\bin\Debug\Quiz.exe.config
+\\Mac\Home\Desktop\Quiz\bin\Debug\Quiz.exe
+\\Mac\Home\Desktop\Quiz\bin\Debug\Quiz.pdb
+\\Mac\Home\Desktop\Quiz\obj\Debug\Quiz.exe
+\\Mac\Home\Desktop\Quiz\obj\Debug\Quiz.pdb
+\\Mac\Home\Desktop\Quiz\obj\Debug\Quiz.exe.config

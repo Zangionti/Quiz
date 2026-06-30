@@ -35,3 +35,7 @@ Visual Studio 2022
 - Таймер на каждый вопрос
 - Таблица рекордов
 - Добавить больше вопросов на различные темы
+
+
+ссылка на презентацию
+https://docs.google.com/presentation/d/1NTiSe-R9j9g1S3xKOEfPjSjlYY7WeUFZ/edit?usp=sharing&ouid=101983822252574810758&rtpof=true&sd=true
